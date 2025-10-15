@@ -1,0 +1,265 @@
+{
+  "home_page": {
+    "url": "https://jiopay.com/business",
+    "title": "Home",
+    "section": null,
+    "content_sections": [],
+    "lists": [
+      [
+        "Products",
+        "Partner Program",
+        "Contact Us",
+        "About Us"
+      ]
+    ],
+    "cta_elements": [],
+    "faqs": []
+  },
+  "categories": [
+    {
+      "name": "General",
+      "links": [
+        {
+          "url": "https://jiopay.com/business/about-us",
+          "title": "About Us",
+          "section": "General",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        },
+        {
+          "url": "https://jiopay.com/business/help-center",
+          "title": "Help Center",
+          "section": "General",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ],
+            [
+              "Email us for any query at",
+              "merchant.support@jiopay.in"
+            ],
+            [
+              "Email us for any query at",
+              "merchant.support@jiopay.in"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": [
+            {
+              "section": "General FAQs",
+              "qa_pairs": [
+                {
+                  "question": "What is JioPay Business?",
+                  "answer": "\n\nJioPay Business is a payment aggregator and gateway provided by Jio Payment Solutions Limited (formerly known as Reliance Payment Solutions Limited), a subsidiary of Reliance Industries Limited. It offers merchants and businesses of all sizes simple and self-service products to accept and process payments online and offline from their customers. JioPay Business supports payments through web, mobile, and Point of Sale (POS) systems, making it convenient for merchants to manage transactions. With JioPay Business, businesses can streamline their payment operations and provide a seamless payment experience to their customers.\nWhat is the purpose of the JioPay Business App?\n\nHow can I download the JioPay Business App?\n\nI have forgotten my account password. How can I reset it?\n\nI am unable to login to the App/Dashboard. What can I do?\n\nWhy My App is crashing on my Phone?\n\nWhere can I see transaction details in the App/Portal?\n"
+                },
+                {
+                  "question": "What is the purpose of the JioPay Business App?",
+                  "answer": "What is JioPay Business?\n\n\n\nJioPay Business App is designed for retailers, businessmen or any other service providers to keep track of payments even when on the move. With the JioPay Business app, you can perform payment processing activities like accepting payments, viewing past transactions, issuing refunds, editing your profile and much more.\nHow can I download the JioPay Business App?\n\nI have forgotten my account password. How can I reset it?\n\nI am unable to login to the App/Dashboard. What can I do?\n\nWhy My App is crashing on my Phone?\n\nWhere can I see transaction details in the App/Portal?\n"
+                },
+                {
+                  "question": "How can I download the JioPay Business App?",
+                  "answer": "What is JioPay Business?\n\nWhat is the purpose of the JioPay Business App?\n\n\n\nTo download the JioPay Business App, follow these steps:\n    1. Open the Google Play Store app on your phone.\n    2. Search for \"JioPay Business\" and select it.\n    3. Tap \"Install\" to download and install the app.\n\nAlternatively, you can download the JioPay Business App directly from https://play.google.com/store/apps/details?id=com.jiopay.business.\n\nNote: The JioPay Business App is available for Android devices on the Google Play Store.\nI have forgotten my account password. How can I reset it?\n\nI am unable to login to the App/Dashboard. What can I do?\n\nWhy My App is crashing on my Phone?\n\nWhere can I see transaction details in the App/Portal?\n"
+                },
+                {
+                  "question": "I have forgotten my account password. How can I reset it?",
+                  "answer": "What is JioPay Business?\n\nWhat is the purpose of the JioPay Business App?\n\nHow can I download the JioPay Business App?\n\n\n\nAt the time of login to the JioPay Business App/Dashboard, select the 'Forgot password' option and follow the instructions indicated to reset the password.\nI am unable to login to the App/Dashboard. What can I do?\n\nWhy My App is crashing on my Phone?\n\nWhere can I see transaction details in the App/Portal?\n"
+                },
+                {
+                  "question": "I am unable to login to the App/Dashboard. What can I do?",
+                  "answer": "What is JioPay Business?\n\nWhat is the purpose of the JioPay Business App?\n\nHow can I download the JioPay Business App?\n\nI have forgotten my account password. How can I reset it?\n\n\n\nIf you are unable to log in to the JioPay Business App or Dashboard, you can try the following:\n    1.\tCheck your internet connection: Ensure you have a stable internet connection by switching between Wi-Fi and mobile data.\n    2.\tReinstall the app: Uninstall the JioPay Business App and reinstall it to ensure you have the latest version.\n    3.\tVerify your username and password: Double-check that you are entering the correct credentials. Use the \"Forgot Password\" option if you need to reset your password.\n\nIf the login issues persist, kindly contact merchant support at merchant.support@jiopay.in for further assistance.\nWhy My App is crashing on my Phone?\n\nWhere can I see transaction details in the App/Portal?\n"
+                },
+                {
+                  "question": "Why My App is crashing on my Phone?",
+                  "answer": "What is JioPay Business?\n\nWhat is the purpose of the JioPay Business App?\n\nHow can I download the JioPay Business App?\n\nI have forgotten my account password. How can I reset it?\n\nI am unable to login to the App/Dashboard. What can I do?\n\n\n\nIf the JioPay Business App is crashing on your phone, try the following steps:\n    1.\tCheck your internet connection: Ensure you have a stable internet connection by switching between Wi-Fi and mobile data.\n    2.\tDelete and reinstall the app: Uninstall the JioPay Business App and reinstall it to get the latest version.\n    3.\tCheck phone software updates: Make sure your phone's software is up to date by checking for available updates.\n\nIf the app still crashes, contact merchant.support@jiopay.in for assistance.\nWhere can I see transaction details in the App/Portal?\n"
+                },
+                {
+                  "question": "Where can I see transaction details in the App/Portal?",
+                  "answer": "What is JioPay Business?\n\nWhat is the purpose of the JioPay Business App?\n\nHow can I download the JioPay Business App?\n\nI have forgotten my account password. How can I reset it?\n\nI am unable to login to the App/Dashboard. What can I do?\n\nWhy My App is crashing on my Phone?\n\n\n\nClick on the icon in the top right corner of the App/Portal and select 'Transactions' from the option to see the transaction details."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "url": "https://jiopay.com/business/investor-relation",
+          "title": "Investor Relations",
+          "section": "General",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        },
+        {
+          "url": "https://jiopay.com/business/complaint-resolution-escalation-matrix",
+          "title": "Complaint Resolution",
+          "section": "General",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        },
+        {
+          "url": "https://jiopay.com/business/partner-program",
+          "title": "JioPay Business Partner Program",
+          "section": "General",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        }
+      ]
+    },
+    {
+      "name": "Products",
+      "links": [
+        {
+          "title": "Payment Gateway",
+          "error": "Could not navigate to page"
+        },
+        {
+          "title": "Point of Sale",
+          "error": "Could not navigate to page"
+        },
+        {
+          "title": "UPI Hub",
+          "error": "Could not navigate to page"
+        },
+        {
+          "title": "Biller Centre",
+          "error": "Could not navigate to page"
+        },
+        {
+          "url": "https://jiopay.com/business/jio-pay-business",
+          "title": "JioPay Business App",
+          "section": "Products",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ],
+            [
+              "JIOPAY BUSINESS APP",
+              "Start accepting UPI payments from your customers instantly irrespective of which UPI app they use."
+            ],
+            [
+              "Instant 2-step process",
+              "Download UPI QR code to accept payments when you’re offline",
+              "Accept from users walking-in to the store and home-delivery orders",
+              "Get the money instantly credited to your linked bank account",
+              "View summary of all transactions",
+              "Accept UPI, Cards, Netbanking, Wallets, Pay Later & Sodexo (Coming Soon)"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        }
+      ]
+    },
+    {
+      "name": "Legal",
+      "links": [
+        {
+          "url": "https://jiopay.com/business/privacy-policy",
+          "title": "Privacy Policy",
+          "section": "Legal",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        },
+        {
+          "url": "https://jiopay.com/business/terms-conditions",
+          "title": "Terms & Conditions",
+          "section": "Legal",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        },
+        {
+          "url": "https://jiopay.com/business/on-boarding-and-kyc-policy",
+          "title": "Merchant Onboarding & KYC-AML Policy",
+          "section": "Legal",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        },
+        {
+          "url": "https://jiopay.com/business/billpay-terms-conditions",
+          "title": "BillPay Terms & Conditions",
+          "section": "Legal",
+          "content_sections": [],
+          "lists": [
+            [
+              "Products",
+              "Partner Program",
+              "Contact Us",
+              "About Us"
+            ]
+          ],
+          "cta_elements": [],
+          "faqs": []
+        }
+      ]
+    }
+  ]
+}
