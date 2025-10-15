@@ -1,0 +1,17 @@
+gradio==4.38.1
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-core==0.2.24
+langchain-groq
+llama-index==0.10.65
+llama-index-core==0.10.65
+llama-index-readers-file==0.10.65
+llama-index-vector-stores-faiss==0.10.65
+llama-index-embeddings-huggingface==0.10.65
+faiss-cpu
+tiktoken
+openai
+pandas
+numpy
+sentence-transformers
+pydantic>=2.0.0
