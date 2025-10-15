@@ -1,7 +1,0 @@
-gradio
-pandas
-faiss-cpu
-llama-index
-langchain
-sentence-transformers
-langchain-groq
