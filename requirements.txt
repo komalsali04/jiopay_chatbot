@@ -1,0 +1,14 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+tiktoken
+openai
+pydantic>=2.0.0
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+langchain
+langchain-core
+langchain-community
+langchain-groq
